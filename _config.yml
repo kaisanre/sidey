@@ -1,6 +1,6 @@
 site: Sidey
 url: https://kaisanre.github.io/sidey/
-baseurl: "/sidey"
+baseurl: "/sidey/"
 title: Sidey
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
